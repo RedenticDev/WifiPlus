@@ -1,0 +1,13 @@
+Package: dev.redentic.wifiplus
+Name: WifiPlus
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Enable WiFi internal settings
+Icon: https://redentic.dev/depictions/com.redenticdev.wifiplus/icon.png
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.wifiplus
+SileoDepiction: https://redentic.dev/depictions/com.redenticdev.wifiplus/sileo.json
+Maintainer: RedenticDev <hello@redentic.dev>
+Author: RedenticDev <hello@redentic.dev>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11)
+Replaces: daniel.networklist
